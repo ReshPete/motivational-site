@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    /* Easy 2-step centering of an elt */
+    width: 50%;
+    max-width: 50%;
+    margin-left: 25%;
+
+    margin-top: 70px;
+   
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+
+.next-container {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.next-container p {
+    text-align: center;
+ }
